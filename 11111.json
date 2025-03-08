@@ -826,8 +826,8 @@
     },
     {
       "Tool Number": "",
-      "Tool Manufacturer": "Gf",
-      "Total Quantity": "9",
+      "Tool Manufacturer": "888888888888",
+      "Total Quantity": "43",
       "Min.LengthBH": 0,
       "Technical Parameters": 0,
       "Sharpening": 0,
@@ -839,7 +839,7 @@
         "Okuma Genos 5ax": 0
       },
       "Type": "",
-      "Image": "",
+      "Image": "Hg.com",
       "Internet Resources": "Vhh"
     }
   ],
@@ -847,25 +847,36 @@
   "chatHistory": [],
   "historyLog": [
     {
-      "timestamp": "08/03/2025, 11:17:08",
+      "timestamp": "08/03/2025, 11:36:19",
       "user": "OnlineUser",
       "action": "Update Tool",
       "details": {
         "toolNumber": "",
         "property": "Tool Manufacturer",
         "oldValue": "",
-        "newValue": "Gf"
+        "newValue": "888888888888"
       }
     },
     {
-      "timestamp": "08/03/2025, 11:17:13",
+      "timestamp": "08/03/2025, 11:36:27",
       "user": "OnlineUser",
       "action": "Update Tool",
       "details": {
         "toolNumber": "",
         "property": "Total Quantity",
         "oldValue": 0,
-        "newValue": "9"
+        "newValue": "43"
+      }
+    },
+    {
+      "timestamp": "08/03/2025, 11:36:35",
+      "user": "OnlineUser",
+      "action": "Update Tool",
+      "details": {
+        "toolNumber": "",
+        "property": "Image",
+        "oldValue": "",
+        "newValue": "Hg.com"
       }
     }
   ],
